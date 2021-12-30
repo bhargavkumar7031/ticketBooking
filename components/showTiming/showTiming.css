@@ -1,0 +1,14 @@
+.showtiming-class-container{
+   display: flex;
+   text-align: center;
+   flex-direction: column;
+   justify-content: center;
+   margin:30px auto;
+   width:80%;
+   padding:20px;
+
+}
+
+.showtiming-class-container span{
+    padding: 5px;
+}

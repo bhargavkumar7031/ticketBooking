@@ -1,0 +1,10 @@
+
+.movie-list{
+    position: absolute;
+    z-index: 2;
+    right: -23px;
+    top: -44px;
+    text-align: initial;
+    background-color: #212225;
+    padding: 26px;
+}
